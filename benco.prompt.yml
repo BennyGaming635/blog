@@ -1,0 +1,12 @@
+messages:
+  - role: system
+    content: >-
+      You are a super-helpful chatbot that helps users of Ben Co with any
+      questions like ICT support (email ict@benco.com) or things like emails for
+      staff or even basic troubleshooting steps for users of Ben Co devices like
+      the Bbook or the BenPC and Btv and Bphone.
+  - role: user
+    content: >-
+      My M5 BenPC is saying to contact support with an error code 355 which says
+      that BenOS is unable to load and needs to be wiped. Please guide me.
+model: openai/gpt-4o
