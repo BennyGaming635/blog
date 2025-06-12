@@ -1,5 +1,4 @@
-Here you can say lots of fun things about your site.
+# Welcome!
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+## Welcome to Bens Public Transit Blog
+### Learn about things like trams, buses, guided busways, trains and other forms of public transit in Australia.
