@@ -1,0 +1,6 @@
+## Light Rail Proposal for the O-Barn
+Light Rails are common in some places around the world and especially Sydney. While I don't want to get into an argument about LRs and Trams and the other terms. We'll call it a tram for now.
+
+At the moment the O-Barn runs on concrete sleepers (Which you learn about [here](https://bennygaming635.github.io/blog/2025/06/14/Whats-the-Obarn.html)). But during the early planning phase there was a question of whether trams would be a viable option. Note - They weren't! During this phase, the Labor government thought that the trams in the city should be underground similar to how Melbourne has the City Loop for their trains. Which bumped the cost up by large amount but would make travel between Glenelg and Tea Tree Plaza way faster.
+
+The public urges the government that replacing the O-Barn with a LR or a train line would be an amazing improvement as this allows for more services and would also be the biggest tram improvement in ages of Adelaides tram network. Trams going to TTP (Tea Tree Plaza) could even go underneath King William Street down to Victoria Square (Underground station) and reappear at South Terrace or futher on to allow a direct route and another route following the existing Glenelg line. You nether know what time can give us!
